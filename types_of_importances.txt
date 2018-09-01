@@ -1,0 +1,4 @@
+Mandatory (Needed)
+Strongly Recommended
+Recommended
+Optional
